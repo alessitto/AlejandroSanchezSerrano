@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Alejandro Sánchez Serrano
+# ¡Hola! Soy Alejandro Sánchez Serrano
 
-### Desarrollador Full-Stack | Java • Spring Boot • Angular • Laravel
+### Desarrollador Full-Stack 
 
-Construyendo aplicaciones web escalables, mantenibles y orientadas a ofrecer una buena experiencia de usuario.
+Me gusta construir ideas útiles, pero sobre todo visuales y agradables orientadas a ofrecer una buena experiencia de usuario.
 
 <p>
 
-<a href="https://alejandrosanchezserrano.github.io/alejandro">🌐 Portfolio</a> • <a href="https://github.com/AlejandroSanchezSerrano">💻 GitHub</a> • <a href="TU_LINKEDIN_AQUI">💼 LinkedIn</a>
+<a href="https://alejandrosanchezserrano.github.io/alejandro" style="decoration: none">🌐 Portfolio</a> • <a href="https://github.com/AlejandroSanchezSerrano">💻 GitHub</a> • <a href="TU_LINKEDIN_AQUI">💼 LinkedIn</a>
 
 </p>
 
