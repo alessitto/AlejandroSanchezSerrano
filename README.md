@@ -8,7 +8,7 @@ Me gusta construir ideas útiles, pero sobre todo visuales y agradables orientad
 
 <p>
 
-<a href="https://alejandrosanchezserrano.github.io/alejandro" style="decoration: none">🌐 Portfolio</a> • <a href="https://github.com/AlejandroSanchezSerrano">💻 GitHub</a> • <a href="TU_LINKEDIN_AQUI">💼 LinkedIn</a>
+<a href="https://alejandrosanchezserrano.github.io/alejandro" style="decoration: none">Portfolio</a> • <a href="https://github.com/AlejandroSanchezSerrano">GitHub</a> • <a href="TU_LINKEDIN_AQUI">LinkedIn</a>
 
 </p>
 
@@ -22,16 +22,15 @@ Me gusta construir ideas útiles, pero sobre todo visuales y agradables orientad
 
 Soy desarrollador **Full-Stack** con interés en crear aplicaciones web modernas, escalables y fáciles de mantener.
 
-Disfruto participando en todas las fases del desarrollo, desde el diseño del backend hasta la construcción de interfaces intuitivas y una buena experiencia de usuario.
+Disfruto participando en todas las fases del desarrollo, desde el diseño del backend hasta la construcción de interfaces visuales, intuitivas y con una buena experiencia de usuario.
 
 Actualmente estoy centrado en:
 
-* ☕ Desarrollo Backend con **Java** y **Spring Boot**
-* 🐘 Aplicaciones con **PHP** y **Laravel**
-* 🅰️ Frontend con **Angular** y **TypeScript**
-* 🐳 Contenedores con **Docker**
-* 🗄️ Bases de datos **MySQL**
-* 🏗️ Buenas prácticas, arquitectura limpia y código mantenible
+* Desarrollo Backend con **Java** 
+* Aplicaciones con **PHP** 
+* Frontend con **Angular** y **TypeScript**
+* Bases de datos **MySQL**
+* Buenas prácticas, arquitectura limpia y código mantenible
 
 ---
 
@@ -55,51 +54,13 @@ Actualmente estoy centrado en:
 
 ---
 
-# 📂 Proyectos destacados
-
-## 🏥 Sistema de Gestión Sanitaria
-
-Aplicación desarrollada para gestionar pacientes, citas e historiales clínicos utilizando una arquitectura escalable.
-
-**Tecnologías**
-
-`Spring Boot` `Angular` `MySQL` `Docker`
-
-🔗 Repositorio: *(Añadir enlace)*
-
----
-
-## 🛒 Plataforma de Comercio Electrónico
-
-Aplicación web con gestión de productos, autenticación, carrito de compra y panel de administración.
-
-**Tecnologías**
-
-`Laravel` `Angular` `Bootstrap`
-
-🔗 Repositorio: *(Añadir enlace)*
-
----
-
-## 📚 Proyecto Académico
-
-Aplicación desarrollada como proyecto universitario aplicando patrones de diseño y buenas prácticas.
-
-**Tecnologías**
-
-`Java` `Spring Boot` `MySQL`
-
-🔗 Repositorio: *(Añadir enlace)*
-
----
-
 # 📈 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlejandroSanchezSerrano&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alessitto&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSanchezSerrano&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessitto&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -107,7 +68,7 @@ Aplicación desarrollada como proyecto universitario aplicando patrones de dise�
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AlejandroSanchezSerrano&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alessito&theme=github-dark&hide_border=true"/>
 
 </div>
 
