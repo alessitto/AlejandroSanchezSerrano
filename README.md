@@ -1,73 +1,170 @@
-<!-- Profile README for: AlejandroSanchezSerrano -->
+<div align="center">
 
-<h1 align="center">Alejandro Sánchez Serrano</h1>
-<p align="center">
-  Full-Stack Developer · Spain
+# 👋 ¡Hola! Soy Alejandro Sánchez Serrano
+
+### Desarrollador Full-Stack | Java • Spring Boot • Angular • Laravel
+
+Construyendo aplicaciones web escalables, mantenibles y orientadas a ofrecer una buena experiencia de usuario.
+
+<p>
+
+<a href="https://alejandrosanchezserrano.github.io/alejandro">🌐 Portfolio</a> • <a href="https://github.com/AlejandroSanchezSerrano">💻 GitHub</a> • <a href="TU_LINKEDIN_AQUI">💼 LinkedIn</a>
+
 </p>
 
-<p align="center">
-  <a href="https://alejandrosanchezserrano.github.io/alejandro" target="_blank"><b>Portfolio</b></a>
-  ·
-  <a href="https://github.com/AlejandroSanchezSerrano" target="_blank">GitHub</a>
-  ·
-  <a href="TU_LINKEDIN_AQUI" target="_blank">LinkedIn</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Desarrollador+Full-Stack;Java+%7C+Spring+Boot+%7C+Angular;Laravel+%7C+Docker+%7C+MySQL;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+
+</div>
 
 ---
 
-## About
-Full-Stack Developer focused on building clean, scalable web applications with solid backend architecture and modern frontends.  
-Interested in best practices, performance, and maintainable codebases.
+# 👨‍💻 Sobre mí
 
-- 🔭 Currently: Building and improving personal & academic projects.
-- 🎯 Focus: Java/Spring, PHP/Laravel, Angular, Docker.
-- 📫 Contact: (opcional) tu email profesional o un formulario en el portfolio.
+Soy desarrollador **Full-Stack** con interés en crear aplicaciones web modernas, escalables y fáciles de mantener.
 
----
+Disfruto participando en todas las fases del desarrollo, desde el diseño del backend hasta la construcción de interfaces intuitivas y una buena experiencia de usuario.
 
-## Featured Projects
-> Recomendación: fija 2–4 repos aquí y enlázalos.
+Actualmente estoy centrado en:
 
-- **Project Name** — 1 línea de lo que hace + stack.  
-  Repo: https://github.com/USER/REPO · Demo: https://...
-- **Project Name** — 1 línea de lo que hace + stack.  
-  Repo: https://github.com/USER/REPO · Demo: https://...
+* ☕ Desarrollo Backend con **Java** y **Spring Boot**
+* 🐘 Aplicaciones con **PHP** y **Laravel**
+* 🅰️ Frontend con **Angular** y **TypeScript**
+* 🐳 Contenedores con **Docker**
+* 🗄️ Bases de datos **MySQL**
+* 🏗️ Buenas prácticas, arquitectura limpia y código mantenible
 
 ---
 
-## Tech Stack
+# 🚀 Tecnologías
+
+<div align="center">
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql"/>
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind"/>
 
-### Workflow
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+### Herramientas
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,vscode,idea"/>
+
+</div>
 
 ---
 
-## Links
-- Portfolio: https://alejandrosanchezserrano.github.io/alejandro
-- GitHub: https://github.com/AlejandroSanchezSerrano
-- LinkedIn: TU_LINKEDIN_AQUI
+# 📂 Proyectos destacados
+
+## 🏥 Sistema de Gestión Sanitaria
+
+Aplicación desarrollada para gestionar pacientes, citas e historiales clínicos utilizando una arquitectura escalable.
+
+**Tecnologías**
+
+`Spring Boot` `Angular` `MySQL` `Docker`
+
+🔗 Repositorio: *(Añadir enlace)*
+
+---
+
+## 🛒 Plataforma de Comercio Electrónico
+
+Aplicación web con gestión de productos, autenticación, carrito de compra y panel de administración.
+
+**Tecnologías**
+
+`Laravel` `Angular` `Bootstrap`
+
+🔗 Repositorio: *(Añadir enlace)*
+
+---
+
+## 📚 Proyecto Académico
+
+Aplicación desarrollada como proyecto universitario aplicando patrones de diseño y buenas prácticas.
+
+**Tecnologías**
+
+`Java` `Spring Boot` `MySQL`
+
+🔗 Repositorio: *(Añadir enlace)*
+
+---
+
+# 📈 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlejandroSanchezSerrano&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSanchezSerrano&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlejandroSanchezSerrano&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Actividad
+
+<div align="center">
+
+<img src="https://github.com/AlejandroSanchezSerrano/AlejandroSanchezSerrano/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> **Nota:** Para mostrar la animación de la serpiente tendrás que configurarla con GitHub Actions en tu repositorio de perfil.
+
+---
+
+# 🎯 Actualmente
+
+* 🚀 Mejorando proyectos personales.
+* 📖 Aprendiendo nuevas funcionalidades de Spring Boot y Angular.
+* 🐳 Profundizando en Docker y despliegues.
+* 💡 Explorando nuevas herramientas para desarrollar software más limpio y escalable.
+
+---
+
+# 🤝 Me interesa colaborar en
+
+* Aplicaciones Full-Stack
+* APIs REST
+* Software Open Source
+* Herramientas para desarrolladores
+* Proyectos con Java o Angular
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+🌐 **Portfolio**
+https://alejandrosanchezserrano.github.io/alejandro
+
+💻 **GitHub**
+https://github.com/AlejandroSanchezSerrano
+
+💼 **LinkedIn**
+TU_LINKEDIN_AQUI
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 "El código limpio siempre parece escrito por alguien a quien le importaba el siguiente desarrollador."
+
+⭐ Gracias por visitar mi perfil.
+
+</div>
