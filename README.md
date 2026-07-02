@@ -88,10 +88,9 @@ Actualmente estoy centrado en:
 
 # 🎯 Actualmente
 
-* 🚀 Mejorando proyectos personales.
-* 📖 Aprendiendo nuevas funcionalidades de Spring Boot y Angular.
-* 🐳 Profundizando en Docker y despliegues.
-* 💡 Explorando nuevas herramientas para desarrollar software más limpio y escalable.
+* Mejorando proyectos personales.
+* Aprendiendo nuevas funcionalidades Angular.
+* Explorando nuevas herramientas para desarrollar software más limpio y escalable.
 
 ---
 
@@ -109,13 +108,13 @@ Actualmente estoy centrado en:
 
 <p align="center">
 
-🌐 **Portfolio**
+**Portfolio**
 https://alejandrosanchezserrano.github.io/alejandro
 
-💻 **GitHub**
+**GitHub**
 https://github.com/AlejandroSanchezSerrano
 
-💼 **LinkedIn**
+**LinkedIn**
 TU_LINKEDIN_AQUI
 
 </p>
@@ -124,8 +123,8 @@ TU_LINKEDIN_AQUI
 
 <div align="center">
 
-### 💭 "El código limpio siempre parece escrito por alguien a quien le importaba el siguiente desarrollador."
+### "El código limpio siempre parece escrito por alguien a quien le importaba el siguiente desarrollador."
 
-⭐ Gracias por visitar mi perfil.
+Gracias por visitar mi perfil.
 
 </div>
